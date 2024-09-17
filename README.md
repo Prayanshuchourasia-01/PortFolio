@@ -1,5 +1,5 @@
 # Portfolio Website
-This is a responsive portfolio website developed as a final project for the SheCodes Responsive Workshop. It is built using HTML, CSS, and Bootstrap. The website showcases the skills, projects, and contact information of the portfolio owner.
+This is a responsive portfolio website developed as a Internship Project. It is built using HTML, CSS, and Bootstrap. The website showcases the skills, projects, and contact information of the portfolio owner.
 
 # Features
 - Responsive design that adapts to different screen sizes and devices.
